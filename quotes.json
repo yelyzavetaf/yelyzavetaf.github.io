@@ -1,0 +1,27 @@
+{
+	"mainQuote":  "Find things interesting",
+		        
+    "quotes": [
+        {"text": "You’re the average of the people you spend time with"},
+        {"text": "Never be good at anything you don’t want to do"},
+        {"text": "Don’t present problems without solutions"},
+        {"text": "Own your mistakes and then move on"},
+        {"text": "Align your emotional energy with your priorities in life"},
+        {"text": "Be responsive"},
+        {"text": "Work will still be here tomorrow"},
+        {"text": "Leave a buffer-time between tasks and meetings"},
+        {"text": "Get organized and single-task"},
+        {"text": "Follow the 80-20 rule"},
+        {"text": "Stop being perfect"},
+        {"text": "Don’t waste time waiting"},
+        {"text": "Find inspiration"},
+        {"text": "Batch similar task together"},
+        {"text": "Set a time limit to each task"},
+        {"text": "Use a to-do-list, but don’t abandon tasks"},
+        {"text": "Plan ahead"},
+        {"text": "Learn to delegate/outsource"},
+        {"text": "Eliminate half-work"},
+        {"text": "Prioritize wisely"}
+       
+    ]
+}
